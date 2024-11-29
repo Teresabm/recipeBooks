@@ -1,0 +1,17 @@
+.footer{
+    background-color: var(--color-light-02);
+    padding: var(--padding-section);
+    .container{
+        max-width: 1200px;
+        flex-direction: column;
+        gap: 2rem;
+    }
+}
+.footer-nav{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--color-dark-01-hover);
+}
