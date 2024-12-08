@@ -1,8 +1,17 @@
-# React + Vite
+# Proyecto: Recetas en linea
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Descripción:
 
-Currently, two official plugins are available:
+Proyecto de consumo de API REST para visualizar datos en pantalla y reforzar conocimientos de HTML, CSS, React y diseño web responsive.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Vista previa del proyecto:**
+
+![Home](./src/assets/recipesBook-home.jpeg "Home")
+
+
+
+### Recursos
+* Fuente en [Google Fonts](https://fonts.google.com/)
+* Imagenes en [Lummi](https://www.lummi.ai/)
+* Iconos en [tabler ICONS](https://tabler.io/icons)
+* Colores en [color hunt](https://colorhunt.co/)
